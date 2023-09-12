@@ -1,4 +1,4 @@
-# Veganize Your Recipes with the Vercel AI SDK: A Comprehensive Tutorial
+# Veganize Your Recipes with the Vercel AI SDK: A Super Simple Tutorial
 
 ## Tutorial
 
