@@ -12,11 +12,18 @@
     "@types/node": "20.6.0",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
+    "ai": "^2.2.12",
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
     "next": "13.4.19",
+    "openai": "^4.6.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-markdown": "^8.0.7",
     "typescript": "5.2.2"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
   }
 }
